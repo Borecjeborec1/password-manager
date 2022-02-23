@@ -1,0 +1,20 @@
+{
+  "name": "password_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "get": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.12.14",
+    "nodemon": "^2.0.7",
+    "prompt": "^1.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
