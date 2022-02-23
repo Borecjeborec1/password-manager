@@ -1,0 +1,1 @@
+# CLI personal password manager
